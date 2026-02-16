@@ -1,12 +1,12 @@
-👋 Hi, I’m @cyberpman — a passionate ethical hacker and full-stack developer.
+👋 Hi, I’m Ayomiposi Okimi@cyberpman, A passionate Nigerian Ethical Hacker.
 
-👀 I specialize in penetration testing, vulnerability assessment, and building scalable web applications.
+👀 I specialize in penetration testing, vulnerability assessment, and Threat Intelligence Analysis.
 
 🌱 Currently diving deep into advanced Ethical Hacking techniques and cybersecurity frameworks.
 
-💞️ Open to collaborating on security audits, bug bounty projects, and innovative full-stack applications.
+💞️ Open to collaborating on security audits, bug bounty projects, and Threat Intelligence Analysis.
 
-📫 Reach me at: ayomiposiokimi504@gmail.com
+📫 Reach me at: ayomiposiokimi2@gmail.com
 
 😄 Pronouns: Haryormiporsy
 
